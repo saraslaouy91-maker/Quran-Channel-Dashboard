@@ -1,0 +1,302 @@
+[
+  {
+    "ar": "إندونيسيا",
+    "flag": "ID",
+    "lat": -2.5,
+    "lng": 118,
+    "viewers": 612000,
+    "pct": 12.8,
+    "watch": 24.1,
+    "growth": 7.8
+  },
+  {
+    "ar": "باكستان",
+    "flag": "PK",
+    "lat": 30.4,
+    "lng": 69.3,
+    "viewers": 548000,
+    "pct": 11.5,
+    "watch": 27.9,
+    "growth": 9.1
+  },
+  {
+    "ar": "الهند",
+    "flag": "IN",
+    "lat": 22.6,
+    "lng": 79,
+    "viewers": 421000,
+    "pct": 8.8,
+    "watch": 19.4,
+    "growth": 5.2
+  },
+  {
+    "ar": "بنغلاديش",
+    "flag": "BD",
+    "lat": 23.7,
+    "lng": 90.4,
+    "viewers": 356000,
+    "pct": 7.4,
+    "watch": 25.6,
+    "growth": 8.4
+  },
+  {
+    "ar": "مصر",
+    "flag": "EG",
+    "lat": 26.8,
+    "lng": 30.8,
+    "viewers": 312000,
+    "pct": 6.5,
+    "watch": 31.2,
+    "growth": 4.6
+  },
+  {
+    "ar": "نيجيريا",
+    "flag": "NG",
+    "lat": 9.1,
+    "lng": 8.7,
+    "viewers": 268000,
+    "pct": 5.6,
+    "watch": 22.8,
+    "growth": 11.3
+  },
+  {
+    "ar": "إيران",
+    "flag": "IR",
+    "lat": 32.4,
+    "lng": 53.7,
+    "viewers": 214000,
+    "pct": 4.5,
+    "watch": 28.4,
+    "growth": 2.1
+  },
+  {
+    "ar": "تركيا",
+    "flag": "TR",
+    "lat": 39,
+    "lng": 35.2,
+    "viewers": 198000,
+    "pct": 4.1,
+    "watch": 23.1,
+    "growth": 3.7
+  },
+  {
+    "ar": "السعودية",
+    "flag": "SA",
+    "lat": 23.9,
+    "lng": 45.1,
+    "viewers": 187000,
+    "pct": 3.9,
+    "watch": 42.6,
+    "growth": 6.9
+  },
+  {
+    "ar": "الجزائر",
+    "flag": "DZ",
+    "lat": 28,
+    "lng": 2.6,
+    "viewers": 164000,
+    "pct": 3.4,
+    "watch": 26.7,
+    "growth": 5.8
+  },
+  {
+    "ar": "المغرب",
+    "flag": "MA",
+    "lat": 31.8,
+    "lng": -6.9,
+    "viewers": 148000,
+    "pct": 3.1,
+    "watch": 25.3,
+    "growth": 4.9
+  },
+  {
+    "ar": "العراق",
+    "flag": "IQ",
+    "lat": 33.2,
+    "lng": 43.7,
+    "viewers": 141000,
+    "pct": 2.9,
+    "watch": 29.8,
+    "growth": 6.2
+  },
+  {
+    "ar": "السودان",
+    "flag": "SD",
+    "lat": 15.6,
+    "lng": 30.2,
+    "viewers": 122000,
+    "pct": 2.6,
+    "watch": 24.9,
+    "growth": 3.1
+  },
+  {
+    "ar": "أفغانستان",
+    "flag": "AF",
+    "lat": 33.9,
+    "lng": 67.7,
+    "viewers": 118000,
+    "pct": 2.5,
+    "watch": 26.1,
+    "growth": 4.4
+  },
+  {
+    "ar": "ماليزيا",
+    "flag": "MY",
+    "lat": 4.2,
+    "lng": 101.9,
+    "viewers": 109000,
+    "pct": 2.3,
+    "watch": 27.4,
+    "growth": 8.9
+  },
+  {
+    "ar": "اليمن",
+    "flag": "YE",
+    "lat": 15.5,
+    "lng": 48.5,
+    "viewers": 98000,
+    "pct": 2,
+    "watch": 23.6,
+    "growth": 1.8
+  },
+  {
+    "ar": "أوزبكستان",
+    "flag": "UZ",
+    "lat": 41.4,
+    "lng": 64.6,
+    "viewers": 91000,
+    "pct": 1.9,
+    "watch": 22.2,
+    "growth": 7.1
+  },
+  {
+    "ar": "سوريا",
+    "flag": "SY",
+    "lat": 34.8,
+    "lng": 38.9,
+    "viewers": 86000,
+    "pct": 1.8,
+    "watch": 27.7,
+    "growth": 2.6
+  },
+  {
+    "ar": "الأردن",
+    "flag": "JO",
+    "lat": 31.3,
+    "lng": 36.5,
+    "viewers": 79000,
+    "pct": 1.7,
+    "watch": 33.4,
+    "growth": 5.5
+  },
+  {
+    "ar": "الإمارات",
+    "flag": "AE",
+    "lat": 24,
+    "lng": 54,
+    "viewers": 74000,
+    "pct": 1.5,
+    "watch": 38.9,
+    "growth": 9.4
+  },
+  {
+    "ar": "كازاخستان",
+    "flag": "KZ",
+    "lat": 48,
+    "lng": 67,
+    "viewers": 68000,
+    "pct": 1.4,
+    "watch": 21.8,
+    "growth": 6.3
+  },
+  {
+    "ar": "تونس",
+    "flag": "TN",
+    "lat": 34,
+    "lng": 9.5,
+    "viewers": 61000,
+    "pct": 1.3,
+    "watch": 25.1,
+    "growth": 3.9
+  },
+  {
+    "ar": "الكويت",
+    "flag": "KW",
+    "lat": 29.3,
+    "lng": 47.7,
+    "viewers": 57000,
+    "pct": 1.2,
+    "watch": 41.2,
+    "growth": 7.6
+  },
+  {
+    "ar": "ليبيا",
+    "flag": "LY",
+    "lat": 27,
+    "lng": 18,
+    "viewers": 49000,
+    "pct": 1,
+    "watch": 24.4,
+    "growth": 2.2
+  },
+  {
+    "ar": "قطر",
+    "flag": "QA",
+    "lat": 25.3,
+    "lng": 51.2,
+    "viewers": 44000,
+    "pct": 0.9,
+    "watch": 40.1,
+    "growth": 10.8
+  },
+  {
+    "ar": "فلسطين",
+    "flag": "PS",
+    "lat": 31.9,
+    "lng": 35.2,
+    "viewers": 42000,
+    "pct": 0.9,
+    "watch": 34.8,
+    "growth": 4.1
+  },
+  {
+    "ar": "عُمان",
+    "flag": "OM",
+    "lat": 21,
+    "lng": 57,
+    "viewers": 38000,
+    "pct": 0.8,
+    "watch": 37.6,
+    "growth": 6.7
+  },
+  {
+    "ar": "الصومال",
+    "flag": "SO",
+    "lat": 5.2,
+    "lng": 46.2,
+    "viewers": 34000,
+    "pct": 0.7,
+    "watch": 22.9,
+    "growth": 5.4
+  },
+  {
+    "ar": "البحرين",
+    "flag": "BH",
+    "lat": 26,
+    "lng": 50.5,
+    "viewers": 24000,
+    "pct": 0.5,
+    "watch": 39.3,
+    "growth": 8.2
+  },
+  {
+    "ar": "لبنان",
+    "flag": "LB",
+    "lat": 33.9,
+    "lng": 35.5,
+    "viewers": 21000,
+    "pct": 0.4,
+    "watch": 30.2,
+    "growth": 1.4
+  }
+]
